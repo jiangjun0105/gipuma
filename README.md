@@ -1,6 +1,6 @@
 # Gipuma
 
-Source code for the paper:
+Jiang's modified source code for the paper:
 
 _S. Galliani, K. Lasinger and K. Schindler_, [**Massively Parallel Multiview Stereopsis by Surface Normal Diffusion**](http://www.prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-iccv15.pdf) [(**supplementary material**)](http://www.prs.igp.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/galliani-lasinger-supplementary-iccv15.pdf), [ICCV 2015](http://pamitc.org/iccv15/)
 
